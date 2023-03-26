@@ -1,0 +1,7 @@
+{
+  "title": "Welcome, readers.",
+  "body": "<p><img src=\"imgs/001.jpg\" alt=\"001\" /></p><p>This is Ben. You are now Ben.</p><p>Today is Monday, 26th 2023.</p><p>Every monday Ben goes to his swimming lessons. He enjoys them.</p><p>Would you accompany him to his destination?</p>",
+  "options": [
+    ["002", "Go outside your room."]
+  ]
+}

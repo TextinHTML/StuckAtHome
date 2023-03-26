@@ -1,0 +1,7 @@
+{
+  "title": "> Go outside your room.",
+  "body": "<p><img src=\"imgs/002.jpg\" alt=\"002\" /></p><p>You are </p>",
+  "options": [
+    ["001", "Go outside."]
+  ]
+}
